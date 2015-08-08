@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^0.13.3",
-    "react-draggable": "^0.8.1"
+    "react": "^0.13.3"
   }
 }
